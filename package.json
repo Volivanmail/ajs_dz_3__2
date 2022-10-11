@@ -1,0 +1,23 @@
+{
+  "name": "ajs_dz_3_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volivanmail/ajs_dz_3__2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volivanmail/ajs_dz_3__2/issues"
+  },
+  "homepage": "https://github.com/Volivanmail/ajs_dz_3__2#readme",
+  "dependencies": {
+    "@volivanmail/ajs_dz_3": "^1.0.0"
+  }
+}
